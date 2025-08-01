@@ -1,0 +1,6 @@
+[submodule "InterviewReady-Front"]
+	path = InterviewReady-Front
+	url = https://github.com/EyaDorai/InterviewReady-Front.git
+[submodule "InterviewReady-MicroservicesBackend"]
+	path = InterviewReady-MicroservicesBackend
+	url = https://github.com/EyaDorai/InterviewReady-MicroservicesBackend.git
